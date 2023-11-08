@@ -1,0 +1,31 @@
+<!--Source Code Struktutur dasar HTML-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <tittle>Tugas 4</tittle>
+  </head>
+<!--Source Code penggunaan tag div-->
+  <body>
+  <div class="header">
+    <h1>SELAMAT DATANG DI WEBKU</h1>
+  </div>
+    <div class="navigasi">
+      <a href="#">HOME </a>
+      <a href="#">PROFIL </a>
+      <a href="#">CONTACT </a>
+    </div>
+    <div class="main">
+          <h2>Bagian Ini adalah Isi Web</h2> </br>
+  <!--Source Code penggunaan tag span-->
+      <p> Lorem ipsum dolor sit amet, consectetur
+adipiscing elit, sed do eiusmod tempor incididunt ut <span> labore
+et dolore </span> magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.</p>
+          <img src="https://malangpagi.com/wp-content/uploads/2021/05/Madiun-Kota-Pendekar-2-1024x532.jpg" height="100"/> 
+    </div>
+    <div class="footer">
+      <p>copyright @ 2021 WEB Programing UNIPMA</p>
+    </div>   
+  </body>
+</html>
